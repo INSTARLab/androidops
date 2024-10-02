@@ -8,7 +8,7 @@ Welcome to the ANDROID Ops Framework communication document. This resource outli
 
 To facilitate focused discussions and timely updates, we have established specific reporting channels for your communication platform (e.g., Teams, Slack, etc) corresponding to each core focus area of the ANDROID Ops Framework:
 
-### A - Advance
+### A - Advancement
 - **Purpose:** Dedicated to roadmap updates and innovation ideation. This channel encourages brainstorming and strategic planning to keep projects aligned with market trends.
 - **Focus:** Future trends, brainstorming sessions, and long-term strategies.
 
@@ -24,15 +24,15 @@ To facilitate focused discussions and timely updates, we have established specif
 - **Purpose:** Shares insights from data analysis and market research. This channel identifies improvement areas and explores emerging technologies.
 - **Focus:** Identifying improvement areas and exploring emerging technologies.
 
-### O - Optimize
+### O - Optimization
 - **Purpose:** Evaluates and refines operational processes to maximize efficiency. It promotes a culture of continuous improvement through performance metrics.
 - **Focus:** Performance metrics, algorithm updates, and continuous improvement initiatives.
 
-### I - Implement
+### I - Implementation
 - **Purpose:** Executes optimized processes with a focus on quality assurance. It ensures smooth training and integration of new technologies.
 - **Focus:** User acceptance testing, training, and integration of new technologies.
 
-### D - Deliver
+### D - Delivery
 - **Purpose:** Concentrates on delivering value to customers through effective operations. It monitors customer feedback and manages release processes.
 - **Focus:** Customer feedback, release management, and post-delivery support.
 
